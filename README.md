@@ -1,2 +1,2 @@
-# blog
-blog
+- this space - https://github.com/AIQuarantine/blog/wiki
+- my space - https://github.com/ObrienlabsDev/blog
