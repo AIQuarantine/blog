@@ -10,4 +10,4 @@
 
 # Links
 - https://intelligence-curse.ai/
-- 
+- https://www.kubernetes.dev/docs/guide/pull-requests/#ai-guidance
